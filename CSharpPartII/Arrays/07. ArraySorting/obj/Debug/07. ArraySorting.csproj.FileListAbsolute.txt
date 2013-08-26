@@ -1,0 +1,5 @@
+c:\users\hope\documents\visual studio 2012\Projects\01. Arrays\07. ArraySorting\bin\Debug\_07.ArraySorting.exe.config
+c:\users\hope\documents\visual studio 2012\Projects\01. Arrays\07. ArraySorting\bin\Debug\_07.ArraySorting.exe
+c:\users\hope\documents\visual studio 2012\Projects\01. Arrays\07. ArraySorting\bin\Debug\_07.ArraySorting.pdb
+c:\users\hope\documents\visual studio 2012\Projects\01. Arrays\07. ArraySorting\obj\Debug\_07.ArraySorting.exe
+c:\users\hope\documents\visual studio 2012\Projects\01. Arrays\07. ArraySorting\obj\Debug\_07.ArraySorting.pdb

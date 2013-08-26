@@ -1,0 +1,4 @@
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\03. Methods\04. NumberCount\bin\Debug\_04.NumberCount.exe
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\03. Methods\04. NumberCount\bin\Debug\_04.NumberCount.pdb
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\03. Methods\04. NumberCount\obj\Debug\_04.NumberCount.exe
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\03. Methods\04. NumberCount\obj\Debug\_04.NumberCount.pdb

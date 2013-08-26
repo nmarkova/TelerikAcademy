@@ -1,0 +1,6 @@
+c:\users\hope\documents\visual studio 2012\Projects\01. Arrays\01. ArrayX5\bin\Debug\_01.ArrayX5.exe.config
+c:\users\hope\documents\visual studio 2012\Projects\01. Arrays\01. ArrayX5\bin\Debug\_01.ArrayX5.exe
+c:\users\hope\documents\visual studio 2012\Projects\01. Arrays\01. ArrayX5\bin\Debug\_01.ArrayX5.pdb
+c:\users\hope\documents\visual studio 2012\Projects\01. Arrays\01. ArrayX5\obj\Debug\01. ArrayX5.csprojResolveAssemblyReference.cache
+c:\users\hope\documents\visual studio 2012\Projects\01. Arrays\01. ArrayX5\obj\Debug\_01.ArrayX5.exe
+c:\users\hope\documents\visual studio 2012\Projects\01. Arrays\01. ArrayX5\obj\Debug\_01.ArrayX5.pdb

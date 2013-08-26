@@ -1,0 +1,4 @@
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\03. Methods\13. SolveTasks\bin\Debug\_13.SolveTasks.exe
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\03. Methods\13. SolveTasks\bin\Debug\_13.SolveTasks.pdb
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\03. Methods\13. SolveTasks\obj\Debug\_13.SolveTasks.exe
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\03. Methods\13. SolveTasks\obj\Debug\_13.SolveTasks.pdb

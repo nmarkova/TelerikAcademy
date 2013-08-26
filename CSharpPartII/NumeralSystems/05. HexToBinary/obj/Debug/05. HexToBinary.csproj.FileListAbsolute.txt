@@ -1,0 +1,4 @@
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\04. NumeralSystems\05. HexToBinary\bin\Debug\_05.HexToBinary.exe
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\04. NumeralSystems\05. HexToBinary\bin\Debug\_05.HexToBinary.pdb
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\04. NumeralSystems\05. HexToBinary\obj\Debug\_05.HexToBinary.exe
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\04. NumeralSystems\05. HexToBinary\obj\Debug\_05.HexToBinary.pdb

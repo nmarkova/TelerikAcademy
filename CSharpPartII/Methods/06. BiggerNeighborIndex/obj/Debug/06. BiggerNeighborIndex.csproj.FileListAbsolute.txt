@@ -1,0 +1,5 @@
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\03. Methods\06. BiggerNeighborIndex\bin\Debug\_06.BiggerNeighborIndex.exe.config
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\03. Methods\06. BiggerNeighborIndex\bin\Debug\_06.BiggerNeighborIndex.exe
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\03. Methods\06. BiggerNeighborIndex\bin\Debug\_06.BiggerNeighborIndex.pdb
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\03. Methods\06. BiggerNeighborIndex\obj\Debug\_06.BiggerNeighborIndex.exe
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\03. Methods\06. BiggerNeighborIndex\obj\Debug\_06.BiggerNeighborIndex.pdb

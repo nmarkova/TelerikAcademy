@@ -1,0 +1,1 @@
+c:\users\hope\documents\visual studio 2012\Projects\06. Loops\06. CalculateSum\bin\Debug\_06.CalculateSum.exe.config

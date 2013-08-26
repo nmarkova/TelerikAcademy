@@ -1,0 +1,5 @@
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\04. NumeralSystems\07. BaseXToBaseY\bin\Debug\_07.BaseXToBaseY.exe.config
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\04. NumeralSystems\07. BaseXToBaseY\bin\Debug\_07.BaseXToBaseY.exe
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\04. NumeralSystems\07. BaseXToBaseY\bin\Debug\_07.BaseXToBaseY.pdb
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\04. NumeralSystems\07. BaseXToBaseY\obj\Debug\_07.BaseXToBaseY.exe
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\04. NumeralSystems\07. BaseXToBaseY\obj\Debug\_07.BaseXToBaseY.pdb

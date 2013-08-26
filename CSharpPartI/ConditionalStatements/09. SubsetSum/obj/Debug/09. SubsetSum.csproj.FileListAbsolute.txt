@@ -1,0 +1,5 @@
+C:\Users\Hope\Documents\Visual Studio 2012\Projects\05. ConditionalStatements\09. SubsetSum\obj\Debug\09. SubsetSum.csprojResolveAssemblyReference.cache
+C:\Users\Hope\Documents\Visual Studio 2012\Projects\05. ConditionalStatements\09. SubsetSum\bin\Debug\_09.SubsetSum.exe
+C:\Users\Hope\Documents\Visual Studio 2012\Projects\05. ConditionalStatements\09. SubsetSum\bin\Debug\_09.SubsetSum.pdb
+C:\Users\Hope\Documents\Visual Studio 2012\Projects\05. ConditionalStatements\09. SubsetSum\obj\Debug\_09.SubsetSum.exe
+C:\Users\Hope\Documents\Visual Studio 2012\Projects\05. ConditionalStatements\09. SubsetSum\obj\Debug\_09.SubsetSum.pdb

@@ -1,0 +1,5 @@
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\02. MultidimensionalArrays\07. DepthFirstSearch\bin\Debug\_07.DepthFirstSearch.exe
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\02. MultidimensionalArrays\07. DepthFirstSearch\bin\Debug\_07.DepthFirstSearch.pdb
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\02. MultidimensionalArrays\07. DepthFirstSearch\obj\Debug\_07.DepthFirstSearch.exe
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\02. MultidimensionalArrays\07. DepthFirstSearch\obj\Debug\_07.DepthFirstSearch.pdb
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\02. MultidimensionalArrays\07. DepthFirstSearch\obj\Debug\07. DepthFirstSearch.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\02. MultidimensionalArrays\05. SortArray\bin\Debug\_05.SortArray.exe
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\02. MultidimensionalArrays\05. SortArray\bin\Debug\_05.SortArray.pdb
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\02. MultidimensionalArrays\05. SortArray\obj\Debug\_05.SortArray.exe
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\02. MultidimensionalArrays\05. SortArray\obj\Debug\_05.SortArray.pdb

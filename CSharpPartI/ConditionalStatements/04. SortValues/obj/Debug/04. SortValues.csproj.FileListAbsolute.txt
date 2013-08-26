@@ -1,0 +1,5 @@
+c:\users\hope\documents\visual studio 2012\Projects\05. ConditionalStatements\04. SortValues\bin\Debug\_04.SortValues.exe.config
+c:\users\hope\documents\visual studio 2012\Projects\05. ConditionalStatements\04. SortValues\bin\Debug\_04.SortValues.exe
+c:\users\hope\documents\visual studio 2012\Projects\05. ConditionalStatements\04. SortValues\bin\Debug\_04.SortValues.pdb
+c:\users\hope\documents\visual studio 2012\Projects\05. ConditionalStatements\04. SortValues\obj\Debug\_04.SortValues.exe
+c:\users\hope\documents\visual studio 2012\Projects\05. ConditionalStatements\04. SortValues\obj\Debug\_04.SortValues.pdb

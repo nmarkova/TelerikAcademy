@@ -1,0 +1,6 @@
+c:\users\hope\documents\visual studio 2012\Projects\06. Loops\12. Matrix\bin\Debug\_12.Matrix.exe.config
+c:\users\hope\documents\visual studio 2012\Projects\06. Loops\12. Matrix\bin\Debug\_12.Matrix.exe
+c:\users\hope\documents\visual studio 2012\Projects\06. Loops\12. Matrix\bin\Debug\_12.Matrix.pdb
+c:\users\hope\documents\visual studio 2012\Projects\06. Loops\12. Matrix\obj\Debug\12. Matrix.csprojResolveAssemblyReference.cache
+c:\users\hope\documents\visual studio 2012\Projects\06. Loops\12. Matrix\obj\Debug\_12.Matrix.exe
+c:\users\hope\documents\visual studio 2012\Projects\06. Loops\12. Matrix\obj\Debug\_12.Matrix.pdb

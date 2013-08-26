@@ -1,0 +1,5 @@
+c:\users\hope\documents\visual studio 2012\Projects\01. Arrays\12. LetterIndex\bin\Debug\_12.LetterIndex.exe.config
+c:\users\hope\documents\visual studio 2012\Projects\01. Arrays\12. LetterIndex\bin\Debug\_12.LetterIndex.exe
+c:\users\hope\documents\visual studio 2012\Projects\01. Arrays\12. LetterIndex\bin\Debug\_12.LetterIndex.pdb
+c:\users\hope\documents\visual studio 2012\Projects\01. Arrays\12. LetterIndex\obj\Debug\_12.LetterIndex.exe
+c:\users\hope\documents\visual studio 2012\Projects\01. Arrays\12. LetterIndex\obj\Debug\_12.LetterIndex.pdb

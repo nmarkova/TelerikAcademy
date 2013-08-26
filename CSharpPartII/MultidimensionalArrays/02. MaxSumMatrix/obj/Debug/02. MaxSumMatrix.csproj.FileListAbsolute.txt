@@ -1,0 +1,4 @@
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\02. MultidimensionalArrays\02. MaxSumMatrix\bin\Debug\_02.MaxSumMatrix.exe
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\02. MultidimensionalArrays\02. MaxSumMatrix\bin\Debug\_02.MaxSumMatrix.pdb
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\02. MultidimensionalArrays\02. MaxSumMatrix\obj\Debug\_02.MaxSumMatrix.exe
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\02. MultidimensionalArrays\02. MaxSumMatrix\obj\Debug\_02.MaxSumMatrix.pdb

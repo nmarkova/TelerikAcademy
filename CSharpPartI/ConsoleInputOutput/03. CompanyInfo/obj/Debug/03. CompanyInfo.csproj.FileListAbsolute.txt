@@ -1,0 +1,5 @@
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\04. ConsoleInputOutput\03. CompanyInfo\bin\Debug\_03.CompanyInfo.exe.config
+C:\Users\Hope\Desktop\04. ConsoleInputOutput\03. CompanyInfo\bin\Debug\_03.CompanyInfo.exe
+C:\Users\Hope\Desktop\04. ConsoleInputOutput\03. CompanyInfo\bin\Debug\_03.CompanyInfo.pdb
+C:\Users\Hope\Desktop\04. ConsoleInputOutput\03. CompanyInfo\obj\Debug\_03.CompanyInfo.exe
+C:\Users\Hope\Desktop\04. ConsoleInputOutput\03. CompanyInfo\obj\Debug\_03.CompanyInfo.pdb

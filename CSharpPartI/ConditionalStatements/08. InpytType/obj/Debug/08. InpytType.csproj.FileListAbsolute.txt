@@ -1,0 +1,5 @@
+c:\users\hope\documents\visual studio 2012\Projects\05. ConditionalStatements\08. InpytType\bin\Debug\_08.InpytType.exe.config
+c:\users\hope\documents\visual studio 2012\Projects\05. ConditionalStatements\08. InpytType\bin\Debug\_08.InpytType.exe
+c:\users\hope\documents\visual studio 2012\Projects\05. ConditionalStatements\08. InpytType\bin\Debug\_08.InpytType.pdb
+c:\users\hope\documents\visual studio 2012\Projects\05. ConditionalStatements\08. InpytType\obj\Debug\_08.InpytType.exe
+c:\users\hope\documents\visual studio 2012\Projects\05. ConditionalStatements\08. InpytType\obj\Debug\_08.InpytType.pdb

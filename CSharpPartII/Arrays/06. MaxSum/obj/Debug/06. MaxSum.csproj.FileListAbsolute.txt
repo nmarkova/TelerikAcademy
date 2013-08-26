@@ -1,0 +1,1 @@
+c:\users\hope\documents\visual studio 2012\Projects\01. Arrays\06. MaxSum\bin\Debug\_06.MaxSum.exe.config

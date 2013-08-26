@@ -1,0 +1,4 @@
+C:\Users\Hope\Documents\Visual Studio 2012\Projects\05. ConditionalStatements\02. ProductSign\bin\Debug\_02.ProductSign.exe
+C:\Users\Hope\Documents\Visual Studio 2012\Projects\05. ConditionalStatements\02. ProductSign\bin\Debug\_02.ProductSign.pdb
+C:\Users\Hope\Documents\Visual Studio 2012\Projects\05. ConditionalStatements\02. ProductSign\obj\Debug\_02.ProductSign.exe
+C:\Users\Hope\Documents\Visual Studio 2012\Projects\05. ConditionalStatements\02. ProductSign\obj\Debug\_02.ProductSign.pdb

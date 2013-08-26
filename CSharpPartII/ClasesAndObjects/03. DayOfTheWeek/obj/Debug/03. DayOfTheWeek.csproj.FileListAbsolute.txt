@@ -1,0 +1,5 @@
+c:\users\hope\documents\visual studio 2012\Projects\05. ClasesAndObjects\03. DayOfTheWeek\bin\Debug\_03.DayOfTheWeek.exe.config
+c:\users\hope\documents\visual studio 2012\Projects\05. ClasesAndObjects\03. DayOfTheWeek\bin\Debug\_03.DayOfTheWeek.exe
+c:\users\hope\documents\visual studio 2012\Projects\05. ClasesAndObjects\03. DayOfTheWeek\bin\Debug\_03.DayOfTheWeek.pdb
+c:\users\hope\documents\visual studio 2012\Projects\05. ClasesAndObjects\03. DayOfTheWeek\obj\Debug\_03.DayOfTheWeek.exe
+c:\users\hope\documents\visual studio 2012\Projects\05. ClasesAndObjects\03. DayOfTheWeek\obj\Debug\_03.DayOfTheWeek.pdb

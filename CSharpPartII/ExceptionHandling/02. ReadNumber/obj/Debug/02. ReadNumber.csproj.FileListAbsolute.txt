@@ -1,0 +1,5 @@
+c:\users\hope\documents\visual studio 2012\Projects\06. ExceptionHandling\02. ReadNumber\bin\Debug\_02.ReadNumber.exe
+c:\users\hope\documents\visual studio 2012\Projects\06. ExceptionHandling\02. ReadNumber\bin\Debug\_02.ReadNumber.pdb
+c:\users\hope\documents\visual studio 2012\Projects\06. ExceptionHandling\02. ReadNumber\obj\Debug\02. ReadNumber.csprojResolveAssemblyReference.cache
+c:\users\hope\documents\visual studio 2012\Projects\06. ExceptionHandling\02. ReadNumber\obj\Debug\_02.ReadNumber.exe
+c:\users\hope\documents\visual studio 2012\Projects\06. ExceptionHandling\02. ReadNumber\obj\Debug\_02.ReadNumber.pdb

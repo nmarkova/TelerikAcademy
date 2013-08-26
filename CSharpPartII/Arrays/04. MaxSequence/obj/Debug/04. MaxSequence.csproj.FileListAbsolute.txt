@@ -1,0 +1,1 @@
+c:\users\hope\documents\visual studio 2012\Projects\01. Arrays\04. MaxSequence\bin\Debug\_04.MaxSequence.exe.config

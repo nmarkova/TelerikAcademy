@@ -1,0 +1,4 @@
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\03. Methods\15. GenericMethod\bin\Debug\_15.GenericMethod.exe
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\03. Methods\15. GenericMethod\bin\Debug\_15.GenericMethod.pdb
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\03. Methods\15. GenericMethod\obj\Debug\_15.GenericMethod.exe
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\03. Methods\15. GenericMethod\obj\Debug\_15.GenericMethod.pdb

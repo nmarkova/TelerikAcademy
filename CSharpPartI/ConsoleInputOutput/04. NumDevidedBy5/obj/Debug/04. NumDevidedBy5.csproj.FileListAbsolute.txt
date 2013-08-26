@@ -1,0 +1,5 @@
+C:\Users\Hope\Desktop\04. ConsoleInputOutput\04. NumDevidedBy5\bin\Debug\_04.NumDevidedBy5.exe
+C:\Users\Hope\Desktop\04. ConsoleInputOutput\04. NumDevidedBy5\bin\Debug\_04.NumDevidedBy5.pdb
+C:\Users\Hope\Desktop\04. ConsoleInputOutput\04. NumDevidedBy5\obj\Debug\04. NumDevidedBy5.csprojResolveAssemblyReference.cache
+C:\Users\Hope\Desktop\04. ConsoleInputOutput\04. NumDevidedBy5\obj\Debug\_04.NumDevidedBy5.exe
+C:\Users\Hope\Desktop\04. ConsoleInputOutput\04. NumDevidedBy5\obj\Debug\_04.NumDevidedBy5.pdb

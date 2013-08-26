@@ -1,0 +1,6 @@
+c:\users\hope\documents\visual studio 2012\Projects\01. Arrays\08. SequenceOfMaxSum\bin\Debug\_08.SequenceOfMaxSum.exe.config
+c:\users\hope\documents\visual studio 2012\Projects\01. Arrays\08. SequenceOfMaxSum\bin\Debug\_08.SequenceOfMaxSum.exe
+c:\users\hope\documents\visual studio 2012\Projects\01. Arrays\08. SequenceOfMaxSum\bin\Debug\_08.SequenceOfMaxSum.pdb
+c:\users\hope\documents\visual studio 2012\Projects\01. Arrays\08. SequenceOfMaxSum\obj\Debug\08. SequenceOfMaxSum.csprojResolveAssemblyReference.cache
+c:\users\hope\documents\visual studio 2012\Projects\01. Arrays\08. SequenceOfMaxSum\obj\Debug\_08.SequenceOfMaxSum.exe
+c:\users\hope\documents\visual studio 2012\Projects\01. Arrays\08. SequenceOfMaxSum\obj\Debug\_08.SequenceOfMaxSum.pdb

@@ -1,0 +1,1 @@
+c:\users\hope\documents\visual studio 2012\Projects\01. Arrays\15. SieveEratosthenes\bin\Debug\_15.SieveEratosthenes.exe.config

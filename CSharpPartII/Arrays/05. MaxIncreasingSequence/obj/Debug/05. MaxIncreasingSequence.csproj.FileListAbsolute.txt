@@ -1,0 +1,5 @@
+c:\users\hope\documents\visual studio 2012\Projects\01. Arrays\05. MaxIncreasingSequence\bin\Debug\_05.MaxIncreasingSequence.exe.config
+c:\users\hope\documents\visual studio 2012\Projects\01. Arrays\05. MaxIncreasingSequence\bin\Debug\_05.MaxIncreasingSequence.exe
+c:\users\hope\documents\visual studio 2012\Projects\01. Arrays\05. MaxIncreasingSequence\bin\Debug\_05.MaxIncreasingSequence.pdb
+c:\users\hope\documents\visual studio 2012\Projects\01. Arrays\05. MaxIncreasingSequence\obj\Debug\_05.MaxIncreasingSequence.exe
+c:\users\hope\documents\visual studio 2012\Projects\01. Arrays\05. MaxIncreasingSequence\obj\Debug\_05.MaxIncreasingSequence.pdb

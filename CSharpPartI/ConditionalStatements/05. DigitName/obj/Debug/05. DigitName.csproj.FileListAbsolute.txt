@@ -1,0 +1,4 @@
+C:\Users\Hope\Documents\Visual Studio 2012\Projects\05. ConditionalStatements\05. DigitName\bin\Debug\_05.DigitName.exe
+C:\Users\Hope\Documents\Visual Studio 2012\Projects\05. ConditionalStatements\05. DigitName\bin\Debug\_05.DigitName.pdb
+C:\Users\Hope\Documents\Visual Studio 2012\Projects\05. ConditionalStatements\05. DigitName\obj\Debug\_05.DigitName.exe
+C:\Users\Hope\Documents\Visual Studio 2012\Projects\05. ConditionalStatements\05. DigitName\obj\Debug\_05.DigitName.pdb

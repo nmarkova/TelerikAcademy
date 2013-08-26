@@ -1,0 +1,4 @@
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\03. Methods\07. ReverseDigits\bin\Debug\_07.ReverseDigits.exe
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\03. Methods\07. ReverseDigits\bin\Debug\_07.ReverseDigits.pdb
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\03. Methods\07. ReverseDigits\obj\Debug\_07.ReverseDigits.exe
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\03. Methods\07. ReverseDigits\obj\Debug\_07.ReverseDigits.pdb

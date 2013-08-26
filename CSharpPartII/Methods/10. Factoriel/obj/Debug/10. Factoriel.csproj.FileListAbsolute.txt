@@ -1,0 +1,4 @@
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\03. Methods\10. Factoriel\bin\Debug\_10.Factoriel.exe
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\03. Methods\10. Factoriel\bin\Debug\_10.Factoriel.pdb
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\03. Methods\10. Factoriel\obj\Debug\_10.Factoriel.exe
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\03. Methods\10. Factoriel\obj\Debug\_10.Factoriel.pdb

@@ -1,0 +1,5 @@
+c:\users\hope\documents\visual studio 2012\Projects\05. ClasesAndObjects\02. RandomValues\bin\Debug\_02.RandomValues.exe.config
+c:\users\hope\documents\visual studio 2012\Projects\05. ClasesAndObjects\02. RandomValues\bin\Debug\_02.RandomValues.exe
+c:\users\hope\documents\visual studio 2012\Projects\05. ClasesAndObjects\02. RandomValues\bin\Debug\_02.RandomValues.pdb
+c:\users\hope\documents\visual studio 2012\Projects\05. ClasesAndObjects\02. RandomValues\obj\Debug\_02.RandomValues.exe
+c:\users\hope\documents\visual studio 2012\Projects\05. ClasesAndObjects\02. RandomValues\obj\Debug\_02.RandomValues.pdb

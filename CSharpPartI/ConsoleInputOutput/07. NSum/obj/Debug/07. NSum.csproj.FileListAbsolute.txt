@@ -1,0 +1,5 @@
+C:\Users\Hope\Desktop\04. ConsoleInputOutput\07. NSum\bin\Debug\_07.NSum.exe
+C:\Users\Hope\Desktop\04. ConsoleInputOutput\07. NSum\bin\Debug\_07.NSum.pdb
+C:\Users\Hope\Desktop\04. ConsoleInputOutput\07. NSum\obj\Debug\_07.NSum.exe
+C:\Users\Hope\Desktop\04. ConsoleInputOutput\07. NSum\obj\Debug\_07.NSum.pdb
+C:\Users\Hope\Desktop\04. ConsoleInputOutput\07. NSum\obj\Debug\07. NSum.csprojResolveAssemblyReference.cache

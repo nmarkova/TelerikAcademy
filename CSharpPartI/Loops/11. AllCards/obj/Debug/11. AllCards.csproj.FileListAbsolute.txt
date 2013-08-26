@@ -1,0 +1,5 @@
+c:\users\hope\documents\visual studio 2012\Projects\06. Loops\11. AllCards\bin\Debug\_11.AllCards.exe.config
+c:\users\hope\documents\visual studio 2012\Projects\06. Loops\11. AllCards\bin\Debug\_11.AllCards.exe
+c:\users\hope\documents\visual studio 2012\Projects\06. Loops\11. AllCards\bin\Debug\_11.AllCards.pdb
+c:\users\hope\documents\visual studio 2012\Projects\06. Loops\11. AllCards\obj\Debug\_11.AllCards.exe
+c:\users\hope\documents\visual studio 2012\Projects\06. Loops\11. AllCards\obj\Debug\_11.AllCards.pdb

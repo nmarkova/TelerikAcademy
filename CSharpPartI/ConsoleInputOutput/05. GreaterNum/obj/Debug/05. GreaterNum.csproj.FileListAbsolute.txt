@@ -1,0 +1,9 @@
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\04. ConsoleInputOutput\05. GreaterNum\bin\Debug\_05.GreaterNum.exe
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\04. ConsoleInputOutput\05. GreaterNum\bin\Debug\_05.GreaterNum.pdb
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\04. ConsoleInputOutput\05. GreaterNum\obj\Debug\_05.GreaterNum.exe
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\04. ConsoleInputOutput\05. GreaterNum\obj\Debug\_05.GreaterNum.pdb
+C:\Users\Hope\Desktop\04. ConsoleInputOutput\05. GreaterNum\obj\Debug\_05.GreaterNum.exe
+C:\Users\Hope\Desktop\04. ConsoleInputOutput\05. GreaterNum\obj\Debug\_05.GreaterNum.pdb
+C:\Users\Hope\Desktop\04. ConsoleInputOutput\05. GreaterNum\bin\Debug\_05.GreaterNum.exe
+C:\Users\Hope\Desktop\04. ConsoleInputOutput\05. GreaterNum\bin\Debug\_05.GreaterNum.pdb
+C:\Users\Hope\Desktop\04. ConsoleInputOutput\05. GreaterNum\obj\Debug\05. GreaterNum.csprojResolveAssemblyReference.cache

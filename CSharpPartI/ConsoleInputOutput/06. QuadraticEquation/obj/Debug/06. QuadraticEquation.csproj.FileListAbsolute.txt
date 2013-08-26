@@ -1,0 +1,10 @@
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\04. ConsoleInputOutput\06. QuadraticEquation\obj\Debug\06. QuadraticEquation.csprojResolveAssemblyReference.cache
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\04. ConsoleInputOutput\06. QuadraticEquation\bin\Debug\_06.QuadraticEquation.exe
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\04. ConsoleInputOutput\06. QuadraticEquation\bin\Debug\_06.QuadraticEquation.pdb
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\04. ConsoleInputOutput\06. QuadraticEquation\obj\Debug\_06.QuadraticEquation.exe
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\04. ConsoleInputOutput\06. QuadraticEquation\obj\Debug\_06.QuadraticEquation.pdb
+C:\Users\Hope\Desktop\04. ConsoleInputOutput\06. QuadraticEquation\obj\Debug\_06.QuadraticEquation.exe
+C:\Users\Hope\Desktop\04. ConsoleInputOutput\06. QuadraticEquation\obj\Debug\_06.QuadraticEquation.pdb
+C:\Users\Hope\Desktop\04. ConsoleInputOutput\06. QuadraticEquation\bin\Debug\_06.QuadraticEquation.exe
+C:\Users\Hope\Desktop\04. ConsoleInputOutput\06. QuadraticEquation\bin\Debug\_06.QuadraticEquation.pdb
+C:\Users\Hope\Desktop\04. ConsoleInputOutput\06. QuadraticEquation\obj\Debug\06. QuadraticEquation.csprojResolveAssemblyReference.cache

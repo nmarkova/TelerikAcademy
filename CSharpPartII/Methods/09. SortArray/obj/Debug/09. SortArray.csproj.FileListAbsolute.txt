@@ -1,0 +1,5 @@
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\03. Methods\09. SortArray\bin\Debug\_09.SortArray.exe.config
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\03. Methods\09. SortArray\bin\Debug\_09.SortArray.exe
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\03. Methods\09. SortArray\bin\Debug\_09.SortArray.pdb
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\03. Methods\09. SortArray\obj\Debug\_09.SortArray.exe
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\03. Methods\09. SortArray\obj\Debug\_09.SortArray.pdb

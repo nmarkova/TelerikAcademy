@@ -1,0 +1,5 @@
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\02. MultidimensionalArrays\01. Matrix\bin\Debug\_01.Matrix.exe
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\02. MultidimensionalArrays\01. Matrix\bin\Debug\_01.Matrix.pdb
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\02. MultidimensionalArrays\01. Matrix\obj\Debug\01. Matrix.csprojResolveAssemblyReference.cache
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\02. MultidimensionalArrays\01. Matrix\obj\Debug\_01.Matrix.exe
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\02. MultidimensionalArrays\01. Matrix\obj\Debug\_01.Matrix.pdb

@@ -1,0 +1,6 @@
+c:\users\hope\documents\visual studio 2012\Projects\05. ClasesAndObjects\04. TriangleSurface\bin\Debug\_04.TriangleSurface.exe.config
+c:\users\hope\documents\visual studio 2012\Projects\05. ClasesAndObjects\04. TriangleSurface\bin\Debug\_04.TriangleSurface.exe
+c:\users\hope\documents\visual studio 2012\Projects\05. ClasesAndObjects\04. TriangleSurface\bin\Debug\_04.TriangleSurface.pdb
+c:\users\hope\documents\visual studio 2012\Projects\05. ClasesAndObjects\04. TriangleSurface\obj\Debug\_04.TriangleSurface.exe
+c:\users\hope\documents\visual studio 2012\Projects\05. ClasesAndObjects\04. TriangleSurface\obj\Debug\_04.TriangleSurface.pdb
+c:\users\hope\documents\visual studio 2012\Projects\05. ClasesAndObjects\04. TriangleSurface\obj\Debug\04. TriangleSurface.csprojResolveAssemblyReference.cache

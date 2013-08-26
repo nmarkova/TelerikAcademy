@@ -1,0 +1,5 @@
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\03. Methods\02. GetMaxMethod\bin\Debug\_02.GetMaxMethod.exe.config
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\03. Methods\02. GetMaxMethod\bin\Debug\_02.GetMaxMethod.exe
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\03. Methods\02. GetMaxMethod\bin\Debug\_02.GetMaxMethod.pdb
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\03. Methods\02. GetMaxMethod\obj\Debug\_02.GetMaxMethod.exe
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\03. Methods\02. GetMaxMethod\obj\Debug\_02.GetMaxMethod.pdb

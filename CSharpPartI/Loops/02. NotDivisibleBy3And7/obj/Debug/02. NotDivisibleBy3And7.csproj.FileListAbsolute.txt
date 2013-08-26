@@ -1,0 +1,5 @@
+c:\users\hope\documents\visual studio 2012\Projects\06. Loops\02. NotDivisibleBy3And7\bin\Debug\_02.NotDivisibleBy3And7.exe.config
+c:\users\hope\documents\visual studio 2012\Projects\06. Loops\02. NotDivisibleBy3And7\bin\Debug\_02.NotDivisibleBy3And7.exe
+c:\users\hope\documents\visual studio 2012\Projects\06. Loops\02. NotDivisibleBy3And7\bin\Debug\_02.NotDivisibleBy3And7.pdb
+c:\users\hope\documents\visual studio 2012\Projects\06. Loops\02. NotDivisibleBy3And7\obj\Debug\_02.NotDivisibleBy3And7.exe
+c:\users\hope\documents\visual studio 2012\Projects\06. Loops\02. NotDivisibleBy3And7\obj\Debug\_02.NotDivisibleBy3And7.pdb

@@ -1,0 +1,6 @@
+c:\users\hope\documents\visual studio 2012\Projects\06. Loops\07. Fibonacci\bin\Debug\_07.Fibonacci.exe.config
+c:\users\hope\documents\visual studio 2012\Projects\06. Loops\07. Fibonacci\bin\Debug\_07.Fibonacci.exe
+c:\users\hope\documents\visual studio 2012\Projects\06. Loops\07. Fibonacci\bin\Debug\_07.Fibonacci.pdb
+c:\users\hope\documents\visual studio 2012\Projects\06. Loops\07. Fibonacci\obj\Debug\07. Fibonacci.csprojResolveAssemblyReference.cache
+c:\users\hope\documents\visual studio 2012\Projects\06. Loops\07. Fibonacci\obj\Debug\_07.Fibonacci.exe
+c:\users\hope\documents\visual studio 2012\Projects\06. Loops\07. Fibonacci\obj\Debug\_07.Fibonacci.pdb

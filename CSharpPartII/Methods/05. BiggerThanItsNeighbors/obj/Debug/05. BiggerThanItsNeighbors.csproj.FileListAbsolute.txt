@@ -1,0 +1,4 @@
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\03. Methods\05. BiggerThanItsNeighbors\bin\Debug\_05.BiggerThanItsNeighbors.exe
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\03. Methods\05. BiggerThanItsNeighbors\bin\Debug\_05.BiggerThanItsNeighbors.pdb
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\03. Methods\05. BiggerThanItsNeighbors\obj\Debug\_05.BiggerThanItsNeighbors.exe
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\03. Methods\05. BiggerThanItsNeighbors\obj\Debug\_05.BiggerThanItsNeighbors.pdb

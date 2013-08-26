@@ -1,0 +1,4 @@
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\04. NumeralSystems\02. BinaryToDecimal\bin\Debug\_02.BinaryToDecimal.exe
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\04. NumeralSystems\02. BinaryToDecimal\bin\Debug\_02.BinaryToDecimal.pdb
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\04. NumeralSystems\02. BinaryToDecimal\obj\Debug\_02.BinaryToDecimal.exe
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\04. NumeralSystems\02. BinaryToDecimal\obj\Debug\_02.BinaryToDecimal.pdb

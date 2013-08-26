@@ -1,0 +1,4 @@
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\03. Methods\03. LastDigit\bin\Debug\_03.LastDigit.exe
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\03. Methods\03. LastDigit\bin\Debug\_03.LastDigit.pdb
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\03. Methods\03. LastDigit\obj\Debug\_03.LastDigit.exe
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\03. Methods\03. LastDigit\obj\Debug\_03.LastDigit.pdb

@@ -1,0 +1,5 @@
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\03. Methods\14. VariableArguments\bin\Debug\_14.VariableArguments.exe.config
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\03. Methods\14. VariableArguments\bin\Debug\_14.VariableArguments.exe
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\03. Methods\14. VariableArguments\bin\Debug\_14.VariableArguments.pdb
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\03. Methods\14. VariableArguments\obj\Debug\_14.VariableArguments.exe
+C:\Users\nadezhda.markova\Documents\Visual Studio 2012\Projects\03. Methods\14. VariableArguments\obj\Debug\_14.VariableArguments.pdb

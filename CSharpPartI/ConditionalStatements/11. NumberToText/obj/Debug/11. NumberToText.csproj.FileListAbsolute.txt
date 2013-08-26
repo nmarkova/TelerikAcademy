@@ -1,0 +1,5 @@
+C:\Users\Hope\Documents\Visual Studio 2012\Projects\05. ConditionalStatements\11. NumberToText\bin\Debug\_11.NumberToText.exe
+C:\Users\Hope\Documents\Visual Studio 2012\Projects\05. ConditionalStatements\11. NumberToText\bin\Debug\_11.NumberToText.pdb
+C:\Users\Hope\Documents\Visual Studio 2012\Projects\05. ConditionalStatements\11. NumberToText\obj\Debug\_11.NumberToText.exe
+C:\Users\Hope\Documents\Visual Studio 2012\Projects\05. ConditionalStatements\11. NumberToText\obj\Debug\_11.NumberToText.pdb
+C:\Users\Hope\Documents\Visual Studio 2012\Projects\05. ConditionalStatements\11. NumberToText\obj\Debug\11. NumberToText.csprojResolveAssemblyReference.cache
