@@ -1,4 +1,4 @@
- <a href="http://academy.telerik.com/Sitefinity/WebsiteTemplates/MyTemplate/App_Themes/Academy/Images/telerik-academy-logo.jpg" title="Уроци по програмиране уроци по програмиране"><img width="728" height="90" src="http://academy.telerik.com/images/default-album/telerik-academy-banner-728x90.jpg?sfvrsn=2" alt="Telerik Academy"/></a>
+http://academy.telerik.com/Sitefinity/WebsiteTemplates/MyTemplate/App_Themes/Academy/Images/telerik-academy-logo.jpg
 ==============
 <h4><em>Contents:</em><h4>
 
