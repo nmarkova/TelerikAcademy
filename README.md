@@ -1,4 +1,4 @@
-<img src="http://academy.telerik.com/Sitefinity/WebsiteTemplates/MyTemplate/App_Themes/Academy/Images/telerik-academy-logo.jpg""><a href="http://academy.telerik.com/"></a>
+<img src="http://academy.telerik.com/Sitefinity/WebsiteTemplates/MyTemplate/App_Themes/Academy/Images/telerik-academy-logo.jpg"" href="http://academy.telerik.com/" />
 ==============
 <h4><em>Contents:</em><h4>
 
