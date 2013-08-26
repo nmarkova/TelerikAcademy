@@ -1,7 +1,7 @@
 <a href="http://academy.telerik.com/"><img src="http://academy.telerik.com/Sitefinity/WebsiteTemplates/MyTemplate/App_Themes/Academy/Images/telerik-academy-logo.jpg"></a>
 <h3>Telerik Academy Season 2013/2014<br>
 Homeworks and Projects</h3>
-
+=======================================
 
 <h3>Contents:</h3>
 
